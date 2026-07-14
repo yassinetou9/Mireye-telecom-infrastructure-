@@ -1,0 +1,6 @@
+{
+  "name": "Miereye | Telecom Infrastructure Scouting Pipeline",
+  "description": "Automated telecom infrastructure scouting pipeline to evaluate sites for cell towers based on geographic coordinates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
